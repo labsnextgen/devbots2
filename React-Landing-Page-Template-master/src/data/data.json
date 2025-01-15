@@ -1,21 +1,19 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
+    "title": "We are Devbots 2",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Optimize your operations with our Robotics solutions for automation, precision, and productivity. Our System Engineers design scalable IT infrastructures, while our Data Engineers create secure data architectures for better insights and decision-making. We also provide Cybersecurity and Network Security services to protect your digital assets with advanced threat detection and continuous monitoring.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Expertise Across Industries",
+      "Innovative Solutions",
+      "Customized Services"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Proven Track Record",
+      "End-to-End Support",
+      "Commitment to Security"
     ]
   },
   "Gallery": [
@@ -67,29 +65,29 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-robot",
+      "name": "Robotics Solutions",
+      "text": "Enhance operations with intelligent robotics solutions for greater automation, precision, and efficiency across industries."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cogs",
+      "name": "System Engineer",
+      "text": "Designing, implementing, and maintaining systems to ensure optimal performance, scalability, and reliability for businesses."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-database",
+      "name": "Data Engineer",
+      "text": "Design and manage efficient data systems to optimize processing and support data-driven decisions."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-shield-alt",
+      "name": "Cyber Security",
+      "text": "Safeguard your digital assets with our advanced cyber security solutions, preventing data breaches, cyber-attacks, and unauthorized access."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-network-wired",
+      "name": "Network Security",
+      "text": "Enhance your network security with solutions that ensure secure data transmission, threat detection, and protection against cyber attacks."
     },
     {
       "icon": "fa fa-pie-chart",
